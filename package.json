@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
+    "fs": "^0.0.1-security",
+    "grey-matter": "^0.0.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
